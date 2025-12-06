@@ -1,0 +1,21 @@
+# Dependências (caso você use npm no futuro)
+node_modules/
+
+# Arquivos de sistema (Windows e Mac)
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Arquivos de configuração do VS Code (pessoais)
+.vscode/
+
+# Arquivos de log (erros)
+*.log
+npm-debug.log*
+
+# Pastas de build (gerados automaticamente, se usar)
+dist/
+build/
+
+# Arquivos de ambiente (segurança)
+.env
